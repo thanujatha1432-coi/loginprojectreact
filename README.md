@@ -3,14 +3,24 @@
 A simple React login form application with username and email input fields.
 
 ✨ Features
+
 Username input
+
 Email input
+
 Login button
+
 Basic form validation
+
 Clean UI design
+
+
 🛠️ Tech Used
+
 React.js
+
 JavaScript
+
 CSS
 
 
